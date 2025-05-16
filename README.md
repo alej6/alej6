@@ -6,8 +6,8 @@
 
 
 <h2> 👩🏽‍💻 Whoami </h2>
-<p>My name is Alejandra and I am a student at Northeastern University pursuing a degree Information Technology. I have a deep passion for all things related to Cybersecurity and Programming. I enjoy uncovering vulnerabilities, securing systems, and learning about the latest techniques and tools in the cybersecurity world.</p>
-<p>Let's build a safer digital world together! </p>
+<p>My name is Alejandra and I am a student at Northeastern University pursuing a degree Information Technology. I have a deep passion for all things related to Cybersecurity. I enjoy uncovering vulnerabilities, securing systems, and learning about the latest techniques and tools in the cybersecurity world.</p>
+
 
 <h2> 💻⚙️Technologies & Tools</h2>
 
